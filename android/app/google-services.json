@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750585892666",
+    "project_id": "demologin-a60eb",
+    "storage_bucket": "demologin-a60eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750585892666:android:62b2c5ccb0914d2d9d0a03",
+        "android_client_info": {
+          "package_name": "com.flutter.demologin.demologin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750585892666-65mt24sf5h73hr6p3goemcolah6bff8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.demologin.demologin",
+            "certificate_hash": "6640179736c545e9dc6ab5ff864adf2aa50a61c3"
+          }
+        },
+        {
+          "client_id": "750585892666-c3v4tl312b2fb52q7v1dc26renbmovbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWe2Y7NzgmwQMJ19GaW76sKAzHAgeXX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750585892666-c3v4tl312b2fb52q7v1dc26renbmovbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
